@@ -1,7 +1,7 @@
 # covid-19-Analysis
 
-Data Sources:
-
+Data Sources: 
+Data on COVID-19 by Our World in Data: https://github.com/owid/covid-19-data/tree/master/public/data/
 
 Main data and daily update from 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE. I will try to update every Wednsday. 
 
